@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cubeau
+- 👋 Hi, I’m @Cubeu
 - 👀 I’m interested in coding, software development and medicine
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects OwO
